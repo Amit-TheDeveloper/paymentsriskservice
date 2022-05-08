@@ -1,6 +1,6 @@
 package com.payments.easypayments.risk.service;
 
-import com.payments.easypayments.risk.data.repositories.CustomerRepository;
+import com.payments.easypayments.risk.paymentsrisk.data.repositories.CustomerRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

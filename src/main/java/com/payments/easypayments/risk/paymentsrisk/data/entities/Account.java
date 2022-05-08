@@ -1,4 +1,4 @@
-package com.payments.easypayments.risk.data.entities;
+package com.payments.easypayments.risk.paymentsrisk.data.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
